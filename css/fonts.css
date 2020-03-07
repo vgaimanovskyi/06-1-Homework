@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "ProximaNova-Light";
+    src: url("../fonts/ProximaNova-Light.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "ProximaNova-Regular";
+    src: url("../fonts/ProximaNova-Regular.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+}
